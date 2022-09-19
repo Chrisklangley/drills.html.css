@@ -1,0 +1,51 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+.flex-header{
+    height: 65px;
+    width: 100%;
+    background-color: rgb(207, 212, 212);
+    display: flex;
+}
+
+.sqaure{
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    margin: 10px 0px 0px 10px;
+}
+
+p {
+margin: 45px 0px 0px 15px;
+}
+
+.section1 {
+    height: 80px;
+    width: 100%;
+    background-color: rgb(17, 142, 142);
+    display: flex;
+}
+.section2{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(207, 212, 212);
+    display: flex;
+}
+.section3{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(52, 192, 192);
+    display: flex;
+}
+
+.section4{
+    background-color: rgb(21, 158, 21);
+    height: 90px;
+    width: 100%;
+    display: flex
+    
+    
+}
+
